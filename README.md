@@ -12,16 +12,16 @@ Analytics
 
 India's aviation industry is expanding rapidly, creating challenges in:
 
--   Airport capacity planning\
--   Fleet allocation\
--   Route expansion strategy\
--   Cargo logistics optimization\
+-   Airport capacity planning
+-   Fleet allocation
+-   Route expansion strategy
+-   Cargo logistics optimization
 -   Infrastructure investment decisions
 
 Inaccurate demand forecasting can lead to: - Underutilized aircraft
-capacity\
-- Revenue leakage\
-- Operational inefficiencies\
+capacity
+- Revenue leakage
+- Operational inefficiencies
 - Poor capital allocation
 
 This project develops a **data-driven forecasting system** to predict
